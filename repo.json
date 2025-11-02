@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "Catphinaud",
+    "Name": "HouseGuest",
+    "Punchline": "Waiting",
+    "Description": "None",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Housing",
+      "Guest"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1762037942,
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.0/HouseGuest.zip",
+    "DownloadLinkTesting": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.0/HouseGuest.zip",
+    "DownloadLinkUpdate": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.0/HouseGuest.zip"
+  }
+]
