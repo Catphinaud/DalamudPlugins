@@ -24,6 +24,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git add repo.json
           git commit -m "Regenerate Repo" -a
       - name: Push changes
         continue-on-error: true
