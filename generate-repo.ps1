@@ -37,7 +37,7 @@ foreach ($plugin in $pluginList) {
   $config | Add-Member -Name "DownloadLinkInstall" -MemberType NoteProperty -Value $download
   $config | Add-Member -Name "DownloadLinkTesting" -MemberType NoteProperty -Value $download
   $config | Add-Member -Name "DownloadLinkUpdate" -MemberType NoteProperty -Value $download
-  $config | Add-Member -Name "AssemblyVersion" -MemberType NoteProperty -Value $json.tag_name
+  # $config | Add-Member -Name "AssemblyVersion" -MemberType NoteProperty -Value $json.tag_name
   # $config | Add-Member -Name "InternalName" -MemberType NoteProperty -Value $repo
   # $config | Add-Member -Name "IconUrl" -MemberType NoteProperty -Value "https://raw.githubusercontent.com/$($username)/$($repo)/$($branch)/icon.png"
 
