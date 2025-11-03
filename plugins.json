@@ -4,5 +4,12 @@
     "repo": "HouseGuest",
     "branch": "master",
     "configFolder": "HouseGuest"
+  },
+  
+  {
+    "username": "Catphinaud",
+    "repo": "GlamHouse",
+    "branch": "main",
+    "configFolder": "GlamHouse"
   }
 ]
