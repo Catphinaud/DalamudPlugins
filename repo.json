@@ -15,8 +15,7 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.0/HouseGuest.zip",
     "DownloadLinkTesting": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.0/HouseGuest.zip",
-    "DownloadLinkUpdate": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.0/HouseGuest.zip",
-    "InternalName": "HouseGuest"
+    "DownloadLinkUpdate": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.0/HouseGuest.zip"
   },
   {
     "Author": "Catphinaud",
@@ -24,17 +23,19 @@
     "Punchline": "Waiting",
     "Description": "None",
     "ApplicableVersion": "any",
+    "InternalName": "GlamHouse",
+    "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
+    "DalamudApiLevel": 13,
     "Tags": [
       "Housing",
       "Guest"
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1762190113,
+    "LastUpdated": 1762190838,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.0/GlamHouse.zip",
-    "DownloadLinkTesting": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.0/GlamHouse.zip",
-    "DownloadLinkUpdate": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.0/GlamHouse.zip",
-    "InternalName": "GlamHouse"
+    "DownloadLinkInstall": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.2/GlamHouse.zip",
+    "DownloadLinkTesting": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.2/GlamHouse.zip",
+    "DownloadLinkUpdate": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.2/GlamHouse.zip"
   }
 ]
