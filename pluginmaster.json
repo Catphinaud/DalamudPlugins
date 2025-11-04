@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Catphinaud",
+        "Name": "HouseGuest",
+        "Punchline": "Waiting",
+        "Description": "None",
+        "InternalName": "HouseGuest",
+        "AssemblyVersion": "1.0.7.0",
+        "RepoUrl": "https://github.com/Catphinaud/HouseGuest",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Housing",
+            "Guest"
+        ],
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.7.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.7.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.7.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1762197828"
+    }
+]

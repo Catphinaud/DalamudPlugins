@@ -1,0 +1,20 @@
+{
+  "Author": "Catphinaud",
+  "Name": "HouseGuest",
+  "InternalName": "HouseGuest",
+  "AssemblyVersion": "1.0.7.0",
+  "Description": "None",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Catphinaud/HouseGuest",
+  "Tags": [
+    "Housing",
+    "Guest"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Waiting",
+  "AcceptsFeedback": true
+}
