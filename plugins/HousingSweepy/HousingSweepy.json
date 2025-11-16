@@ -1,0 +1,22 @@
+{
+  "Author": "Catphinaud",
+  "Name": "HousingSweepy",
+  "InternalName": "HousingSweepy",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Sweepy the actual housing wards for medium / large houses",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
+  "Tags": [
+    "housing",
+    "convenience",
+    "Automation"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Catphinaud/HousingSweepy/main/images/icon.png",
+  "Punchline": "Actual sweeping for once",
+  "AcceptsFeedback": true
+}
