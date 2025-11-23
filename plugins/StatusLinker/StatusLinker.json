@@ -1,0 +1,21 @@
+{
+  "Author": "Catphinaud",
+  "Name": "StatusLinker",
+  "InternalName": "StatusLinker",
+  "AssemblyVersion": "1.0.0.2",
+  "Description": "Allows to link any <status> from the game",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
+  "Tags": [
+    "status",
+    "utility"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Catphinaud/StatusLinker/main/images/icon.png",
+  "Punchline": "Link any status from the game",
+  "AcceptsFeedback": true
+}
