@@ -47,6 +47,29 @@
     },
     {
         "Author": "Catphinaud",
+        "Name": "StatusLinker",
+        "Punchline": "Link any status from the game",
+        "Description": "Allows to link any <status> from the game",
+        "InternalName": "StatusLinker",
+        "AssemblyVersion": "1.0.0.2",
+        "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "status",
+            "utility"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/StatusLinker/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.2/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1763918457"
+    },
+    {
+        "Author": "Catphinaud",
         "Name": "HousingSweepy",
         "Punchline": "Actual sweeping for once",
         "Description": "Sweepy the actual housing wards for medium / large houses",
