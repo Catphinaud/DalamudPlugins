@@ -65,6 +65,7 @@ jobs:
       - name: Checkout Plugin Repository
         uses: actions/checkout@v4
         with:
+          submodules: recursive
           repository: ${{ inputs.personal_plugin_repo }}
           token: ${{ secrets.PAT }}
           ref: ${{ inputs.personal_plugin_repo_branch }}
