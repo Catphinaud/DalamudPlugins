@@ -91,5 +91,23 @@
         "DownloadLinkUpdate": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.1/latest.zip",
         "DownloadCount": 4,
         "LastUpdate": "1763319430"
+    },
+    {
+        "Author": "Noevain,kalilistic, Anna",
+        "Name": "NoSolicitingFork",
+        "Punchline": "Adblock for FFXIV.",
+        "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
+        "InternalName": "NoSolicitingFork",
+        "AssemblyVersion": "3.1.9.4",
+        "RepoUrl": "https://github.com/Catphinaud/NoSoliciting",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.4/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.4/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1763925026"
     }
 ]
