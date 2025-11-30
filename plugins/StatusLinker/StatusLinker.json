@@ -2,7 +2,7 @@
   "Author": "Catphinaud",
   "Name": "StatusLinker",
   "InternalName": "StatusLinker",
-  "AssemblyVersion": "1.0.0.3",
+  "AssemblyVersion": "1.0.0.4",
   "Description": "Allows to link any <status> from the game",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
