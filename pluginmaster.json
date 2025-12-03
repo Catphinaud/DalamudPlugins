@@ -98,16 +98,17 @@
         "Punchline": "Adblock for FFXIV.",
         "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
         "InternalName": "NoSolicitingFork",
-        "AssemblyVersion": "3.1.9.8",
+        "AssemblyVersion": "3.1.9.9",
         "RepoUrl": "https://github.com/Catphinaud/NoSoliciting",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.8/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/NoSoliciting/refs/heads/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.9/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.8/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.9/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.9/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1764785345"
+        "LastUpdate": "1764785796"
     }
 ]
