@@ -2,7 +2,7 @@
   "Author": "Catphinaud",
   "Name": "GlamHouse",
   "InternalName": "GlamHouse",
-  "AssemblyVersion": "1.0.4.7",
+  "AssemblyVersion": "1.0.4.8",
   "Description": "GlamHouse",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
@@ -11,7 +11,7 @@
     "glamour",
     "glamourer"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
