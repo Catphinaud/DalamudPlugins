@@ -2,8 +2,8 @@
   "Author": "Catphinaud",
   "Name": "HousingSweepy",
   "InternalName": "HousingSweepy",
-  "AssemblyVersion": "1.0.0.1",
-  "Description": "Sweepy the actual housing wards for medium / large houses",
+  "AssemblyVersion": "1.0.0.3",
+  "Description": "HousingSweepy",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
   "Tags": [
@@ -11,7 +11,7 @@
     "convenience",
     "Automation"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
