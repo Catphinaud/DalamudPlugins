@@ -42,16 +42,16 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
-        "DownloadCount": 2,
+        "DownloadCount": 3,
         "LastUpdate": "1766164393"
     },
     {
         "Author": "Catphinaud",
         "Name": "StatusLinker",
         "Punchline": "Link any status from the game",
-        "Description": "Allows to link any <status> from the game",
+        "Description": "StatusLinker",
         "InternalName": "StatusLinker",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
         "ApplicableVersion": "any",
         "Tags": [
@@ -60,13 +60,13 @@
         ],
         "DalamudApiLevel": 13,
         "IconUrl": "https://raw.githubusercontent.com/Catphinaud/StatusLinker/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.4/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.5/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.4/latest.zip",
-        "DownloadCount": 4,
-        "LastUpdate": "1764522182"
+        "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.5/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1766316679"
     },
     {
         "Author": "Catphinaud",
