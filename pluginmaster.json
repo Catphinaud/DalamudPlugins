@@ -71,7 +71,7 @@
         "Punchline": "Reporting RMT PFs",
         "Description": "Report RMT PF's to gms for funsies",
         "InternalName": "PFReport",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
         "RepoUrl": "https://github.com/Catphinaud/PFReport",
         "ApplicableVersion": "any",
         "Tags": [
@@ -79,13 +79,13 @@
             "reporting"
         ],
         "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1771084849"
+        "LastUpdate": "1771085323"
     },
     {
         "Author": "Catphinaud",
