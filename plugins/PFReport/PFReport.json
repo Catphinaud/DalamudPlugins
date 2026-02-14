@@ -2,7 +2,7 @@
   "Author": "Catphinaud",
   "Name": "PFReport",
   "InternalName": "PFReport",
-  "AssemblyVersion": "0.0.0.3",
+  "AssemblyVersion": "0.0.0.4",
   "Description": "Report RMT PF's to gms for funsies",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/PFReport",
