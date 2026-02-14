@@ -1,0 +1,20 @@
+{
+  "Author": "Catphinaud",
+  "Name": "PFReport",
+  "InternalName": "PFReport",
+  "AssemblyVersion": "0.0.0.3",
+  "Description": "Report RMT PF's to gms for funsies",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Catphinaud/PFReport",
+  "Tags": [
+    "party finder",
+    "reporting"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Reporting RMT PFs",
+  "AcceptsFeedback": true
+}
