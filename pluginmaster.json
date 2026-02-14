@@ -156,5 +156,29 @@
         "DownloadLinkUpdate": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.5/latest.zip",
         "DownloadCount": 7,
         "LastUpdate": "1768851973"
+    },
+    {
+        "Author": "Mei",
+        "Name": "Oh Hey! Fork",
+        "Punchline": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
+        "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can !",
+        "InternalName": "OhHeyFork",
+        "AssemblyVersion": "0.0.0.7",
+        "RepoUrl": "https://github.com/Catphinaud/OhHey-Fork",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "notification",
+            "emote",
+            "target"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/MeiHasCrashed/OhHey/refs/heads/main/src/OhHey/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.7/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.7/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.7/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1771112806"
     }
 ]
