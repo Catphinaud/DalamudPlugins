@@ -66,6 +66,30 @@
         "LastUpdate": "1766323617"
     },
     {
+        "Author": "Mei",
+        "Name": "Oh Hey!",
+        "Punchline": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
+        "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can !",
+        "InternalName": "OhHey",
+        "AssemblyVersion": "0.0.0.5",
+        "RepoUrl": "https://github.com/MeiHasCrashed/OhHey",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "notification",
+            "emote",
+            "target"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/MeiHasCrashed/OhHey/refs/heads/main/src/OhHey/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/MeiHasCrashed/OhHey/releases/download/v0.0.0.5/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/MeiHasCrashed/OhHey/releases/download/v0.0.0.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/MeiHasCrashed/OhHey/releases/download/v0.0.0.5/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1771111937"
+    },
+    {
         "Author": "Catphinaud",
         "Name": "PFReport",
         "Punchline": "Reporting RMT PFs",
@@ -84,7 +108,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 2,
         "LastUpdate": "1771085323"
     },
     {
