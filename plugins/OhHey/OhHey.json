@@ -1,0 +1,22 @@
+{
+  "Author": "Mei",
+  "Name": "Oh Hey!",
+  "InternalName": "OhHey",
+  "AssemblyVersion": "0.0.0.5",
+  "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can !",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/MeiHasCrashed/OhHey",
+  "Tags": [
+    "notification",
+    "emote",
+    "target"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/MeiHasCrashed/OhHey/refs/heads/main/src/OhHey/images/icon.png",
+  "Punchline": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
+  "AcceptsFeedback": true
+}
