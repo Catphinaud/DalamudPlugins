@@ -163,7 +163,7 @@
         "Punchline": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
         "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can !",
         "InternalName": "OhHeyFork",
-        "AssemblyVersion": "0.0.0.8",
+        "AssemblyVersion": "0.0.0.9",
         "RepoUrl": "https://github.com/Catphinaud/OhHey-Fork",
         "ApplicableVersion": "any",
         "Tags": [
@@ -173,12 +173,12 @@
         ],
         "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/MeiHasCrashed/OhHey/refs/heads/main/src/OhHey/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.8/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.9/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.8/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.9/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.9/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1771112964"
+        "LastUpdate": "1771173228"
     }
 ]
