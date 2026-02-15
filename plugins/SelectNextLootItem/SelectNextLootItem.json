@@ -1,0 +1,19 @@
+{
+  "Author": "MidoriKami",
+  "Name": "Select Next Loot Item (Without VanillaPlus)",
+  "InternalName": "SelectNextLootItem",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "I don't like how unstable VanillaPlus actually is...",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "loot"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Selects the next loot item automatically.",
+  "AcceptsFeedback": true
+}
