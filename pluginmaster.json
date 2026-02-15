@@ -23,6 +23,28 @@
         "LastUpdate": "1766322418"
     },
     {
+        "Author": "MidoriKami, Catphinaud",
+        "Name": "Select Next Loot Item (Without VanillaPlus)",
+        "Punchline": "Selects the next loot item automatically.",
+        "Description": "I don't like how unstable VanillaPlus actually is... All credits to MidoriKami",
+        "InternalName": "SelectNextLootItem",
+        "AssemblyVersion": "0.0.0.2",
+        "RepoUrl": "https://github.com/Catphinaud/SelectNextLootItem",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "tweak",
+            "loot"
+        ],
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1771189516"
+    },
+    {
         "Author": "Catphinaud",
         "Name": "GlamHouse",
         "Punchline": "Force Emperor on a ton of stuff",
