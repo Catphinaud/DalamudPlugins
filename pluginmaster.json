@@ -1,48 +1,25 @@
 [
     {
         "Author": "Catphinaud",
-        "Name": "StatusLinker",
-        "Punchline": "Link any status from the game",
-        "Description": "StatusLinker",
-        "InternalName": "StatusLinker",
-        "AssemblyVersion": "1.0.0.6",
-        "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
+        "Name": "HouseGuest",
+        "Punchline": "Waiting",
+        "Description": "None",
+        "InternalName": "HouseGuest",
+        "AssemblyVersion": "1.0.8.0",
+        "RepoUrl": "https://github.com/Catphinaud/HouseGuest",
         "ApplicableVersion": "any",
         "Tags": [
-            "status",
-            "utility"
+            "Housing",
+            "Guest"
         ],
-        "DalamudApiLevel": 14,
-        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/StatusLinker/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
-        "DownloadCount": 5,
-        "LastUpdate": "1766322418"
-    },
-    {
-        "Author": "MidoriKami, Catphinaud",
-        "Name": "Select Next Loot Item (Without VanillaPlus)",
-        "Punchline": "Selects the next loot item automatically.",
-        "Description": "I don't like how unstable VanillaPlus actually is... All credits to MidoriKami",
-        "InternalName": "SelectNextLootItem",
-        "AssemblyVersion": "0.0.0.2",
-        "RepoUrl": "https://github.com/Catphinaud/SelectNextLootItem",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "tweak",
-            "loot"
-        ],
-        "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
-        "DownloadCount": 3,
-        "LastUpdate": "1771189516"
+        "DownloadLinkTesting": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
+        "DownloadCount": 1,
+        "LastUpdate": "1762275751"
     },
     {
         "Author": "Catphinaud",
@@ -69,23 +46,73 @@
         "LastUpdate": "1766164393"
     },
     {
-        "Author": "Noevain,kalilistic, Anna",
-        "Name": "NoSolicitingFork",
-        "Punchline": "Adblock for FFXIV.",
-        "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
-        "InternalName": "NoSolicitingFork",
-        "AssemblyVersion": "3.1.9.10",
-        "RepoUrl": "https://github.com/Catphinaud/NoSoliciting",
+        "Author": "MidoriKami, Catphinaud",
+        "Name": "Select Next Loot Item (Without VanillaPlus)",
+        "Punchline": "Selects the next loot item automatically.",
+        "Description": "I don't like how unstable VanillaPlus actually is... All credits to MidoriKami",
+        "InternalName": "SelectNextLootItem",
+        "AssemblyVersion": "0.0.0.2",
+        "RepoUrl": "https://github.com/Catphinaud/SelectNextLootItem",
         "ApplicableVersion": "any",
+        "Tags": [
+            "tweak",
+            "loot"
+        ],
         "DalamudApiLevel": 14,
-        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/NoSoliciting/refs/heads/master/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.10/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.10/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.10/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.2/latest.zip",
+        "DownloadCount": 3,
+        "LastUpdate": "1771189516"
+    },
+    {
+        "Author": "Catphinaud",
+        "Name": "StatusLinker",
+        "Punchline": "Link any status from the game",
+        "Description": "StatusLinker",
+        "InternalName": "StatusLinker",
+        "AssemblyVersion": "1.0.0.6",
+        "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "status",
+            "utility"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/StatusLinker/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
+        "DownloadCount": 5,
+        "LastUpdate": "1766322418"
+    },
+    {
+        "Author": "Mei, Catphinaud",
+        "Name": "Oh Hey! Fork",
+        "Punchline": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
+        "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can !",
+        "InternalName": "OhHeyFork",
+        "AssemblyVersion": "0.0.0.10",
+        "RepoUrl": "https://github.com/Catphinaud/OhHey-Fork",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "notification",
+            "emote",
+            "target"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/MeiHasCrashed/OhHey/refs/heads/main/src/OhHey/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.10/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.10/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766323617"
+        "LastUpdate": "1771521618"
     },
     {
         "Author": "Catphinaud",
@@ -108,28 +135,6 @@
         "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
         "DownloadCount": 5,
         "LastUpdate": "1771085323"
-    },
-    {
-        "Author": "Catphinaud",
-        "Name": "HouseGuest",
-        "Punchline": "Waiting",
-        "Description": "None",
-        "InternalName": "HouseGuest",
-        "AssemblyVersion": "1.0.8.0",
-        "RepoUrl": "https://github.com/Catphinaud/HouseGuest",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Housing",
-            "Guest"
-        ],
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
-        "DownloadCount": 1,
-        "LastUpdate": "1762275751"
     },
     {
         "Author": "Catphinaud",
@@ -156,27 +161,22 @@
         "LastUpdate": "1768851973"
     },
     {
-        "Author": "Mei, Catphinaud",
-        "Name": "Oh Hey! Fork",
-        "Punchline": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
-        "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can !",
-        "InternalName": "OhHeyFork",
-        "AssemblyVersion": "0.0.0.9",
-        "RepoUrl": "https://github.com/Catphinaud/OhHey-Fork",
+        "Author": "Noevain,kalilistic, Anna",
+        "Name": "NoSolicitingFork",
+        "Punchline": "Adblock for FFXIV.",
+        "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
+        "InternalName": "NoSolicitingFork",
+        "AssemblyVersion": "3.1.9.10",
+        "RepoUrl": "https://github.com/Catphinaud/NoSoliciting",
         "ApplicableVersion": "any",
-        "Tags": [
-            "notification",
-            "emote",
-            "target"
-        ],
         "DalamudApiLevel": 14,
-        "IconUrl": "https://raw.githubusercontent.com/MeiHasCrashed/OhHey/refs/heads/main/src/OhHey/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.9/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/NoSoliciting/refs/heads/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.10/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.9/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.10/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1771173228"
+        "LastUpdate": "1766323617"
     }
 ]
