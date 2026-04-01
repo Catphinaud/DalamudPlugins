@@ -1,6 +1,30 @@
 [
     {
         "Author": "Catphinaud",
+        "Name": "FC Hide Specifc Login / Logout",
+        "Punchline": "Hide FC login/logout spam.",
+        "Description": "Lil plugin to hide the login/logout for specific free company members who never speak yet logs in/out 20 times an hour",
+        "InternalName": "FreeCompanyHideSpecifcLoginLogout",
+        "AssemblyVersion": "0.0.0.3",
+        "RepoUrl": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "freecompany",
+            "chat",
+            "filter",
+            "silly"
+        ],
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.3/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.3/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1775049548"
+    },
+    {
+        "Author": "Catphinaud",
         "Name": "StatusLinker",
         "Punchline": "Link any status from the game",
         "Description": "StatusLinker",
