@@ -108,6 +108,7 @@ def get_last_updated_times(manifests):
                 break
 
 def write_master(master):
+    master = sorted(master, key=lambda manifest: manifest.get('InternalName', '').lower())
     # write as pretty json
     with open('pluginmaster.json', 'w') as f:
         json.dump(master, f, indent=4)
