@@ -2,7 +2,7 @@
   "Author": "Catphinaud",
   "Name": "FC Hide Specifc Login / Logout",
   "InternalName": "FreeCompanyHideSpecifcLoginLogout",
-  "AssemblyVersion": "0.0.0.3",
+  "AssemblyVersion": "0.0.0.4",
   "Description": "Lil plugin to hide the login/logout for specific free company members who never speak yet logs in/out 20 times an hour",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout",
@@ -12,7 +12,7 @@
     "filter",
     "silly"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
