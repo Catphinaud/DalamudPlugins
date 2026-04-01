@@ -1,0 +1,20 @@
+{
+  "Author": "Catphinaud",
+  "Name": "FC Hide Specifc Login / Logout",
+  "InternalName": "FreeCompanyHideSpecifcLoginLogout",
+  "AssemblyVersion": "0.0.0.2",
+  "Description": "Lil plugin to hide the login/logout for specific free company members who never speak yet logs in/out 20 times an hour",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "freecompany",
+    "chat",
+    "filter"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Hide FC login/logout spam.",
+  "AcceptsFeedback": true
+}
