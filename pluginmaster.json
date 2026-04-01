@@ -25,26 +25,27 @@
     },
     {
         "Author": "Catphinaud",
-        "Name": "StatusLinker",
-        "Punchline": "Link any status from the game",
-        "Description": "StatusLinker",
-        "InternalName": "StatusLinker",
-        "AssemblyVersion": "1.0.0.6",
-        "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
+        "Name": "GlamHouse",
+        "Punchline": "Force Emperor on a ton of stuff",
+        "Description": "GlamHouse",
+        "InternalName": "GlamHouse",
+        "AssemblyVersion": "1.0.4.8",
+        "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
         "ApplicableVersion": "any",
         "Tags": [
-            "status",
-            "utility"
+            "emperor",
+            "glamour",
+            "glamourer"
         ],
         "DalamudApiLevel": 14,
-        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/StatusLinker/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/Glamhouse/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
-        "DownloadCount": 7,
-        "LastUpdate": "1766322418"
+        "DownloadLinkTesting": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1766164393"
     },
     {
         "Author": "Catphinaud",
@@ -69,6 +70,30 @@
         "LastUpdate": "1762275751"
     },
     {
+        "Author": "Catphinaud",
+        "Name": "HousingSweepy",
+        "Punchline": "Actual sweeping for once",
+        "Description": "HousingSweepy",
+        "InternalName": "HousingSweepy",
+        "AssemblyVersion": "1.0.0.6",
+        "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "housing",
+            "convenience",
+            "Automation"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/HousingSweepy/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.6/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.6/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1771628832"
+    },
+    {
         "Author": "Noevain,kalilistic, Anna",
         "Name": "NoSolicitingFork",
         "Punchline": "Adblock for FFXIV.",
@@ -86,30 +111,6 @@
         "DownloadLinkUpdate": "https://github.com/Catphinaud/NoSoliciting/releases/download/v3.1.9.10/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1766323617"
-    },
-    {
-        "Author": "Catphinaud",
-        "Name": "GlamHouse",
-        "Punchline": "Force Emperor on a ton of stuff",
-        "Description": "GlamHouse",
-        "InternalName": "GlamHouse",
-        "AssemblyVersion": "1.0.4.8",
-        "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "emperor",
-            "glamour",
-            "glamourer"
-        ],
-        "DalamudApiLevel": 14,
-        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/Glamhouse/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1766164393"
     },
     {
         "Author": "Mei, Catphinaud",
@@ -136,6 +137,28 @@
         "LastUpdate": "1771625991"
     },
     {
+        "Author": "Catphinaud",
+        "Name": "PFReport",
+        "Punchline": "Reporting RMT PFs",
+        "Description": "Report RMT PF's to gms for funsies",
+        "InternalName": "PFReport",
+        "AssemblyVersion": "0.0.0.4",
+        "RepoUrl": "https://github.com/Catphinaud/PFReport",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "party finder",
+            "reporting"
+        ],
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1771085323"
+    },
+    {
         "Author": "MidoriKami, Catphinaud",
         "Name": "Select Next Loot Item (Without VanillaPlus)",
         "Punchline": "Selects the next loot item automatically.",
@@ -159,48 +182,25 @@
     },
     {
         "Author": "Catphinaud",
-        "Name": "PFReport",
-        "Punchline": "Reporting RMT PFs",
-        "Description": "Report RMT PF's to gms for funsies",
-        "InternalName": "PFReport",
-        "AssemblyVersion": "0.0.0.4",
-        "RepoUrl": "https://github.com/Catphinaud/PFReport",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "party finder",
-            "reporting"
-        ],
-        "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.4/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1771085323"
-    },
-    {
-        "Author": "Catphinaud",
-        "Name": "HousingSweepy",
-        "Punchline": "Actual sweeping for once",
-        "Description": "HousingSweepy",
-        "InternalName": "HousingSweepy",
+        "Name": "StatusLinker",
+        "Punchline": "Link any status from the game",
+        "Description": "StatusLinker",
+        "InternalName": "StatusLinker",
         "AssemblyVersion": "1.0.0.6",
-        "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
+        "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
         "ApplicableVersion": "any",
         "Tags": [
-            "housing",
-            "convenience",
-            "Automation"
+            "status",
+            "utility"
         ],
         "DalamudApiLevel": 14,
-        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/HousingSweepy/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.6/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Catphinaud/StatusLinker/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.6/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.6/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1771628832"
+        "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
+        "DownloadCount": 7,
+        "LastUpdate": "1766322418"
     }
 ]
