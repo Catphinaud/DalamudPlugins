@@ -5,7 +5,7 @@
         "Punchline": "Hide FC login/logout spam.",
         "Description": "Lil plugin to hide the login/logout for specific free company members who never speak yet logs in/out 20 times an hour",
         "InternalName": "FreeCompanyHideSpecifcLoginLogout",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
         "RepoUrl": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout",
         "ApplicableVersion": "any",
         "Tags": [
@@ -14,14 +14,14 @@
             "filter",
             "silly"
         ],
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.3/latest.zip",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.4/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.4/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1775049548"
+        "LastUpdate": "1775050123"
     },
     {
         "Author": "Catphinaud",
