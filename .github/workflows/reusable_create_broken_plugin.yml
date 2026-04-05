@@ -58,7 +58,7 @@ jobs:
           Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev\"
 
       - name: Build
-        run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
+        run: dotnet build ${{ inputs.solution_name }}.sln -c ${{ inputs.build_configuration }} --no-restore
 
       - name: Upload Build Artifact
         uses: actions/upload-artifact@v4
