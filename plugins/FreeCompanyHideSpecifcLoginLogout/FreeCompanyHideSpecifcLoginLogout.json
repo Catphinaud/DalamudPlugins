@@ -2,7 +2,7 @@
   "Author": "Catphinaud",
   "Name": "FC Hide Specifc Login / Logout",
   "InternalName": "FreeCompanyHideSpecifcLoginLogout",
-  "AssemblyVersion": "0.0.0.4",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "Lil plugin to hide the login/logout for specific free company members who never speak yet logs in/out 20 times an hour",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout",
