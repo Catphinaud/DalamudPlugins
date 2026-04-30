@@ -118,7 +118,7 @@
         "Punchline": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
         "Description": "This plugin notifies you when someone targets you, or emotes at you.\n\nCommands:\n  /ohheyfork - Opens the main window\n  /ohheyfork main - Opens the main window\n  /ohheyfork [config|settings] - Opens the settings window\n  /ohheyfork help - Displays the help message (will also display on invalid sub-commands)",
         "InternalName": "OhHeyFork",
-        "AssemblyVersion": "0.0.0.16",
+        "AssemblyVersion": "0.0.0.17",
         "RepoUrl": "https://github.com/Catphinaud/OhHey-Fork",
         "ApplicableVersion": "any",
         "Tags": [
@@ -126,15 +126,15 @@
             "emote",
             "target"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/MeiHasCrashed/OhHey/refs/heads/main/src/OhHey/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.16/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.17/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.16/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.16/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.17/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/OhHey-Fork/releases/download/v0.0.0.17/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1775393226"
+        "LastUpdate": "1777568268"
     },
     {
         "Author": "Catphinaud",
