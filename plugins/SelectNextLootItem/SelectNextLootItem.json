@@ -2,7 +2,7 @@
   "Author": "MidoriKami, Catphinaud",
   "Name": "Select Next Loot Item (Without VanillaPlus)",
   "InternalName": "SelectNextLootItem",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.0.3",
   "Description": "I don't like how unstable VanillaPlus actually is... All credits to MidoriKami",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/SelectNextLootItem",
