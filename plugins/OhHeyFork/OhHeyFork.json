@@ -2,7 +2,7 @@
   "Author": "Mei, Catphinaud",
   "Name": "Oh Hey! Fork",
   "InternalName": "OhHeyFork",
-  "AssemblyVersion": "0.0.0.16",
+  "AssemblyVersion": "0.0.0.17",
   "Description": "This plugin notifies you when someone targets you, or emotes at you.\n\nCommands:\n  /ohheyfork - Opens the main window\n  /ohheyfork main - Opens the main window\n  /ohheyfork [config|settings] - Opens the settings window\n  /ohheyfork help - Displays the help message (will also display on invalid sub-commands)",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/OhHey-Fork",
@@ -11,7 +11,7 @@
     "emote",
     "target"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
