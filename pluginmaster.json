@@ -75,7 +75,7 @@
         "Punchline": "Actual sweeping for once",
         "Description": "Sweepy the actual housing wards for medium / large houses",
         "InternalName": "HousingSweepy",
-        "AssemblyVersion": "1.0.0.7",
+        "AssemblyVersion": "1.0.0.8",
         "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
         "ApplicableVersion": "any",
         "Tags": [
@@ -83,15 +83,15 @@
             "convenience",
             "Automation"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/Catphinaud/HousingSweepy/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.7/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.8/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.7/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.8/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777574602"
+        "LastUpdate": "1777576445"
     },
     {
         "Author": "Noevain,kalilistic, Anna",
