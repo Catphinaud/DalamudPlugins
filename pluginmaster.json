@@ -142,21 +142,21 @@
         "Punchline": "Reporting RMT PFs",
         "Description": "Report RMT PF's to gms for funsies",
         "InternalName": "PFReport",
-        "AssemblyVersion": "0.0.0.5",
+        "AssemblyVersion": "0.0.0.6",
         "RepoUrl": "https://github.com/Catphinaud/PFReport",
         "ApplicableVersion": "any",
         "Tags": [
             "party finder",
             "reporting"
         ],
-        "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.5/latest.zip",
+        "DalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.6/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.5/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.6/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777575132"
+        "LastUpdate": "1777576514"
     },
     {
         "Author": "MidoriKami, Catphinaud",
