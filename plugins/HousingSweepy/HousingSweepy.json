@@ -2,8 +2,8 @@
   "Author": "Catphinaud",
   "Name": "HousingSweepy",
   "InternalName": "HousingSweepy",
-  "AssemblyVersion": "1.0.0.6",
-  "Description": "HousingSweepy",
+  "AssemblyVersion": "1.0.0.7",
+  "Description": "Sweepy the actual housing wards for medium / large houses",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
   "Tags": [
