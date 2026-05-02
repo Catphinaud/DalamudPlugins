@@ -20,7 +20,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/FreeCompanyHideSpecifcLoginLogout/releases/download/v0.0.0.7/latest.zip",
-        "DownloadCount": 1,
+        "DownloadCount": 0,
         "LastUpdate": "1777576587"
     },
     {
@@ -44,7 +44,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/GlamHouse/releases/download/v1.0.4.8/latest.zip",
-        "DownloadCount": 6,
+        "DownloadCount": 0,
         "LastUpdate": "1766164393"
     },
     {
@@ -66,7 +66,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/HouseGuest/releases/download/v1.0.8.0/latest.zip",
-        "DownloadCount": 1,
+        "DownloadCount": 0,
         "LastUpdate": "1762275751"
     },
     {
@@ -90,7 +90,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/HousingSweepy/releases/download/v1.0.0.8/latest.zip",
-        "DownloadCount": 2,
+        "DownloadCount": 0,
         "LastUpdate": "1777576445"
     },
     {
@@ -155,7 +155,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/PFReport/releases/download/v0.0.0.6/latest.zip",
-        "DownloadCount": 1,
+        "DownloadCount": 0,
         "LastUpdate": "1777576514"
     },
     {
@@ -164,21 +164,21 @@
         "Punchline": "Selects the next loot item automatically.",
         "Description": "I don't like how unstable VanillaPlus actually is... All credits to MidoriKami",
         "InternalName": "SelectNextLootItem",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
         "RepoUrl": "https://github.com/Catphinaud/SelectNextLootItem",
         "ApplicableVersion": "any",
         "Tags": [
             "tweak",
             "loot"
         ],
-        "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.3/latest.zip",
+        "DalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.4/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Catphinaud/SelectNextLootItem/releases/download/v0.0.0.4/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777568488"
+        "LastUpdate": "1777721323"
     },
     {
         "Author": "Catphinaud",
@@ -200,7 +200,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Catphinaud/StatusLinker/releases/download/v1.0.0.6/latest.zip",
-        "DownloadCount": 8,
+        "DownloadCount": 0,
         "LastUpdate": "1766322418"
     }
 ]
