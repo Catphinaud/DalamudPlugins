@@ -94,6 +94,29 @@
         "LastUpdate": "1778869498"
     },
     {
+        "Author": "Catphinaud",
+        "Name": "Nosol-Private",
+        "Punchline": "Adblock for FFXIV.",
+        "Description": "Customisable chat and Party Finder filtering. In addition to letting you filter anything from chat and PF, it comes with built-in filters for the following: RMT (both gil and content), FC ads, RP ads, phishing messages, static recruitment, trade ads, community ads, and any PF with an item level over the max.",
+        "InternalName": "Nosol-Private",
+        "AssemblyVersion": "3.1.6.0",
+        "RepoUrl": "https://github.com/kalilistic/NoSoliciting",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "chat",
+            "party finder",
+            "filtering"
+        ],
+        "DalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://github.com/kalilistic/NoSoliciting/releases/download/v3.1.6.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/NoSoliciting/releases/download/v3.1.6.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/NoSoliciting/releases/download/v3.1.6.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1780346572"
+    },
+    {
         "Author": "Noevain,kalilistic, Anna",
         "Name": "NoSolicitingFork",
         "Punchline": "Adblock for FFXIV.",
