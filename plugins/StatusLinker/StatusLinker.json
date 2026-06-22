@@ -2,15 +2,15 @@
   "Author": "Catphinaud",
   "Name": "StatusLinker",
   "InternalName": "StatusLinker",
-  "AssemblyVersion": "1.0.0.6",
-  "Description": "StatusLinker",
+  "AssemblyVersion": "1.0.0.7",
+  "Description": "Allows to link any <status> from the game",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
   "Tags": [
     "status",
     "utility"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
