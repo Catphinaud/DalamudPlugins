@@ -2,8 +2,8 @@
   "Author": "Catphinaud",
   "Name": "GlamHouse",
   "InternalName": "GlamHouse",
-  "AssemblyVersion": "1.0.4.8",
-  "Description": "GlamHouse",
+  "AssemblyVersion": "1.0.5.0",
+  "Description": "Forces the Emperor outfit on various players or NPC's for the lulz of it",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
   "Tags": [
@@ -11,7 +11,7 @@
     "glamour",
     "glamourer"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
